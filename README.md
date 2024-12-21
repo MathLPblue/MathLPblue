@@ -5,6 +5,6 @@
 </p>
 
 <p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,rust,java&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,rust,java&perline=5)](https://skillicons.dev)]
 
 </p>
