@@ -1,5 +1,4 @@
 <h1 align="center">Bem Vindo👋</h1>
-<h3 align="center">Desenvolvedor backend</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
