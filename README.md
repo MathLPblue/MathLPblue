@@ -1,7 +1,7 @@
 <h1>Bem vindo!</h1>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/mathmdrlimp" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://linkedin.com/in/mathmdrlimp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/mathmdrlimp" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://linkedin.com/in/mathmdrlimp" /></a>
 </p>
 
 <h3 align="left">Linguagens:</h3>
