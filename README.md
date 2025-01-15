@@ -7,7 +7,7 @@
 <h3 align="left">Linguagens:</h3>
 <p align="left"> 
 <a  target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,sql" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,sql" />
 </a>
 </p>
 
