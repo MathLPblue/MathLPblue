@@ -7,14 +7,14 @@
 <h3 align="left">Linguagens:</h3>
 <p align="left"> 
 <a  target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=java,js,ts,sql" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,sql" />
 </a>
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p align="left"> 
 <a  target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=bootstrap,spring,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=pandas,matplotlib,spring,nodejs,react" />
 </a>
 </p>
 
@@ -25,7 +25,7 @@
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=tokyonight)
+
 
 
 
