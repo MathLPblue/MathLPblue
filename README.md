@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mathmlp" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/mathmlp" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
     src="https://skillicons.dev/icons?i=linkedin"
